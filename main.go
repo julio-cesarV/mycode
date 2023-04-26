@@ -3,7 +3,7 @@ package main
 
 import (
     "fmt"
-    "mygame/models"
+    "~/models"
 )
 
 func main() {
